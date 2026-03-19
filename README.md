@@ -2,6 +2,12 @@
 
 Dashboard web moderno para monitoramento de preços de voos Rio de Janeiro → California.
 
+## 🚀 Deploy Instantly
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tiagoclaw/flight-tracker-frontend)
+
+**Or try static version instantly:** [Download static-deploy.html](static-deploy.html)
+
 ## ✨ Features
 
 - **📊 Dashboard Interativo**: Gráficos em tempo real com Chart.js
