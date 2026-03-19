@@ -6,8 +6,6 @@ export const metadata: Metadata = {
   description: 'Monitoramento inteligente de preços de voos Rio de Janeiro para Califórnia',
   keywords: 'voos, preços, Rio de Janeiro, California, Los Angeles, San Francisco, monitoramento',
   authors: [{ name: 'Flight Tracker Team' }],
-  viewport: 'width=device-width, initial-scale=1',
-  themeColor: '#667eea',
   openGraph: {
     title: '🛫 Flight Tracker Rio-California',
     description: 'Monitoramento inteligente de preços de voos Rio → California',
