@@ -13,6 +13,7 @@ import {
   Legend,
   TimeScale
 } from 'chart.js'
+import 'chartjs-adapter-date-fns'
 import { Bar, Line } from 'react-chartjs-2'
 import type { FlightPrice } from '../types/flight'
 
